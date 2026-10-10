@@ -96,7 +96,7 @@ cd pipeline && npm install && node build-assets.mjs
 # Java: the mod (needs JDK 25)
 cd java && ./gradlew build              # build/libs/smashandclash-minecraft-<version>.jar
 
-# Bedrock: the packs and the .mcaddon
+# Bedrock: the packs and the .mcaddon (needs ffmpeg too)
 cd bedrock && npm install && node tools/build.mjs     # packs/RP, packs/BP, dist/smashandclash.mcaddon
 ```
 
