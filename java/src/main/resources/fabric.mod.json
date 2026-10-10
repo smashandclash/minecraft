@@ -1,0 +1,38 @@
+{
+	"schemaVersion": 1,
+	"id": "smashandclash",
+	"version": "${version}",
+	"name": "Smash&Clash",
+	"description": "Play Smash&Clash inside Minecraft: the two-player strategy board game where every move matters. Play the house, quick match, or a friend on any client - the website, the apps, the CLI, Telegram, tldraw or a DS.",
+	"authors": [
+		"Smash&Clash"
+	],
+	"contact": {
+		"homepage": "https://www.smashandclash.in",
+		"sources": "https://github.com/smashandclash/minecraft",
+		"issues": "https://github.com/smashandclash/minecraft/issues"
+	},
+	"license": "MIT",
+	"icon": "assets/smashandclash/icon.png",
+	"environment": "*",
+	"entrypoints": {
+		"main": [
+			"in.smashandclash.minecraft.SmashAndClashMod"
+		],
+		"client": [
+			"in.smashandclash.minecraft.client.SmashAndClashClient"
+		]
+	},
+	"depends": {
+		"fabricloader": ">=0.19.5",
+		"minecraft": "~26.3",
+		"java": ">=25",
+		"fabric-api": "*"
+	},
+	"mixins": [
+		{
+			"config": "smashandclash.client.mixins.json",
+			"environment": "client"
+		}
+	]
+}

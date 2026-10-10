@@ -1,0 +1,14 @@
+{
+ "model": {
+  "type": "minecraft:condition",
+  "property": "minecraft:view_entity",
+  "on_true": {
+   "type": "minecraft:model",
+   "model": "smashandclash:item/card_held/13"
+  },
+  "on_false": {
+   "type": "minecraft:model",
+   "model": "smashandclash:item/card_back"
+  }
+ }
+}

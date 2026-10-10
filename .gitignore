@@ -1,0 +1,17 @@
+# local only: Mojang's server, decompiled game sources, caches, build output
+bds/
+.mcsrc/
+.mcassets/
+*.log
+pipeline/node_modules/
+pipeline/.cache/
+java/.gradle/
+java/build/
+java/run/
+bedrock/node_modules/
+bedrock/test/node_modules/
+bedrock/test/*.log
+bedrock/packs/
+bedrock/dist/
+film/
+release/

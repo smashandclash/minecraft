@@ -1,0 +1,94 @@
+{
+ "terms": "Free to use in clients and apps built for Smash&Clash. The characters, art, audio and the Smash&Clash name remain Smash&Clash’s: never present them as your own, and credit Smash&Clash where you show them.",
+ "colors": {
+  "red": "#ce3a3d",
+  "orange": "#eca441",
+  "green": "#56c841",
+  "blue": "#3493da",
+  "purple": "#b241ec",
+  "pink": "#fc41a3",
+  "gray": "#8a8f9c"
+ },
+ "sides": {
+  "top": {
+   "color": "red",
+   "hex": "#FD5656"
+  },
+  "right": {
+   "color": "yellow",
+   "hex": "#FFDE59"
+  },
+  "bottom": {
+   "color": "blue",
+   "hex": "#5271FF"
+  },
+  "left": {
+   "color": "green",
+   "hex": "#7ED957"
+  }
+ },
+ "timing": {
+  "strike": [
+   {
+    "from": 0,
+    "to": 0.15,
+    "frame": "rest"
+   },
+   {
+    "from": 0.15,
+    "to": 0.34,
+    "frame": "windup"
+   },
+   {
+    "from": 0.34,
+    "to": 0.62,
+    "frame": "strike"
+   },
+   {
+    "from": 0.62,
+    "to": 1,
+    "frame": "rest"
+   }
+  ],
+  "stomp": [
+   {
+    "from": 0,
+    "to": 0.17,
+    "frame": "rest"
+   },
+   {
+    "from": 0.17,
+    "to": 0.5,
+    "frame": "windup"
+   },
+   {
+    "from": 0.5,
+    "to": 0.72,
+    "frame": "strike"
+   },
+   {
+    "from": 0.72,
+    "to": 1,
+    "frame": "rest"
+   }
+  ],
+  "blocked": [
+   {
+    "from": 0,
+    "to": 0.15,
+    "frame": "rest"
+   },
+   {
+    "from": 0.15,
+    "to": 0.46,
+    "frame": "windup"
+   },
+   {
+    "from": 0.46,
+    "to": 1,
+    "frame": "rest"
+   }
+  ]
+ },
+ "aspect": 0.7333333333333333
+}

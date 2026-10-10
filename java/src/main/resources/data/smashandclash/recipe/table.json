@@ -1,0 +1,11 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "pattern": ["PPP", "BBB", " L "],
+  "key": {
+    "P": "minecraft:paper",
+    "B": "minecraft:birch_slab",
+    "L": "minecraft:birch_log"
+  },
+  "result": { "id": "smashandclash:table" }
+}

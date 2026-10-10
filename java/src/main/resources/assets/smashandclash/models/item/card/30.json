@@ -1,0 +1,6 @@
+{
+ "parent": "smashandclash:item/card_base",
+ "textures": {
+  "front": "smashandclash:block/card/30"
+ }
+}

@@ -1,0 +1,12 @@
+{
+ "model": {
+  "type": "minecraft:model",
+  "model": "smashandclash:item/rim",
+  "tints": [
+   {
+    "type": "smashandclash:seat",
+    "default": 16777215
+   }
+  ]
+ }
+}

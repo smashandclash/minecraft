@@ -1,0 +1,6 @@
+{
+ "parent": "smashandclash:item/sprite_base",
+ "textures": {
+  "sprite": "smashandclash:block/attack/32_windup"
+ }
+}

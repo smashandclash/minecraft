@@ -1,0 +1,966 @@
+[
+ {
+  "id": 1,
+  "name": "Pengu",
+  "kind": "character",
+  "top": 5,
+  "right": 4,
+  "bottom": 3,
+  "left": 2,
+  "color": "pink",
+  "colorHex": "#fc41a3",
+  "art": true,
+  "animation": {
+   "pivot": {
+    "x": 0.442,
+    "y": 0.9213
+   },
+   "artScale": 1.0074
+  },
+  "voice": true
+ },
+ {
+  "id": 2,
+  "name": "Luna",
+  "kind": "character",
+  "top": 6,
+  "right": 4,
+  "bottom": 5,
+  "left": 3,
+  "color": "blue",
+  "colorHex": "#3493da",
+  "art": true,
+  "animation": {
+   "pivot": {
+    "x": 0.3189,
+    "y": 0.987
+   },
+   "artScale": 1.4519
+  },
+  "voice": true
+ },
+ {
+  "id": 3,
+  "name": "Noodle",
+  "kind": "character",
+  "top": 3,
+  "right": 2,
+  "bottom": 1,
+  "left": 5,
+  "color": "red",
+  "colorHex": "#ce3a3d",
+  "art": true,
+  "animation": {
+   "pivot": {
+    "x": 0.4842,
+    "y": 0.9685
+   },
+   "artScale": 1.1259
+  },
+  "voice": true
+ },
+ {
+  "id": 4,
+  "name": "Tina",
+  "kind": "character",
+  "top": 2,
+  "right": 3,
+  "bottom": 5,
+  "left": 4,
+  "color": "green",
+  "colorHex": "#56c841",
+  "art": true,
+  "animation": {
+   "pivot": {
+    "x": 0.61,
+    "y": 0.9611
+   },
+   "artScale": 1.3333
+  },
+  "voice": true
+ },
+ {
+  "id": 5,
+  "name": "Lizzie",
+  "kind": "character",
+  "top": 6,
+  "right": 6,
+  "bottom": 6,
+  "left": 6,
+  "color": "orange",
+  "colorHex": "#eca441",
+  "art": true,
+  "animation": {
+   "pivot": {
+    "x": 0.5443,
+    "y": 0.863
+   },
+   "artScale": 1.0074
+  },
+  "voice": true
+ },
+ {
+  "id": 6,
+  "name": "Baa-Baa",
+  "kind": "character",
+  "top": 3,
+  "right": 1,
+  "bottom": 3,
+  "left": 2,
+  "color": "green",
+  "colorHex": "#56c841",
+  "art": true,
+  "animation": {
+   "pivot": {
+    "x": 0.3832,
+    "y": 0.9222
+   },
+   "artScale": 1.1259
+  },
+  "voice": true
+ },
+ {
+  "id": 7,
+  "name": "Shadow",
+  "kind": "character",
+  "top": 4,
+  "right": 3,
+  "bottom": 5,
+  "left": 6,
+  "color": "blue",
+  "colorHex": "#3493da",
+  "art": true,
+  "animation": {
+   "pivot": {
+    "x": 0.5124,
+    "y": 0.925
+   },
+   "artScale": 1.0074
+  },
+  "voice": true
+ },
+ {
+  "id": 8,
+  "name": "Vega",
+  "kind": "character",
+  "top": 7,
+  "right": 4,
+  "bottom": 5,
+  "left": 6,
+  "color": "purple",
+  "colorHex": "#b241ec",
+  "art": true,
+  "animation": {
+   "pivot": {
+    "x": 0.4533,
+    "y": 0.9667
+   },
+   "artScale": 1.037
+  },
+  "voice": true
+ },
+ {
+  "id": 9,
+  "name": "Nevermore",
+  "kind": "character",
+  "top": 3,
+  "right": 6,
+  "bottom": 4,
+  "left": 5,
+  "color": "gray",
+  "colorHex": "#8a8f9c",
+  "art": true,
+  "animation": {
+   "pivot": {
+    "x": 0.4783,
+    "y": 0.9352
+   },
+   "artScale": 1.037
+  },
+  "voice": true
+ },
+ {
+  "id": 10,
+  "name": "Mr. Nibbles",
+  "kind": "character",
+  "top": 4,
+  "right": 3,
+  "bottom": 5,
+  "left": 4,
+  "color": "orange",
+  "colorHex": "#eca441",
+  "art": true,
+  "animation": {
+   "pivot": {
+    "x": 0.373,
+    "y": 0.9287
+   },
+   "artScale": 1.0074
+  },
+  "voice": true
+ },
+ {
+  "id": 11,
+  "name": "Lifafa",
+  "kind": "character",
+  "top": 6,
+  "right": 5,
+  "bottom": 6,
+  "left": 7,
+  "color": "orange",
+  "colorHex": "#eca441",
+  "art": true,
+  "animation": {
+   "pivot": {
+    "x": 0.4313,
+    "y": 0.9491
+   },
+   "artScale": 1.0667
+  },
+  "voice": true
+ },
+ {
+  "id": 12,
+  "name": "Stripes",
+  "kind": "character",
+  "top": 7,
+  "right": 2,
+  "bottom": 6,
+  "left": 5,
+  "color": "red",
+  "colorHex": "#ce3a3d",
+  "art": true,
+  "animation": {
+   "pivot": {
+    "x": 0.5334,
+    "y": 0.8657
+   },
+   "artScale": 1.1259
+  },
+  "voice": true
+ },
+ {
+  "id": 13,
+  "name": "Jasper",
+  "kind": "character",
+  "top": 4,
+  "right": 1,
+  "bottom": 2,
+  "left": 3,
+  "color": "green",
+  "colorHex": "#56c841",
+  "art": true,
+  "animation": {
+   "pivot": {
+    "x": 0.4757,
+    "y": 0.9519
+   },
+   "artScale": 1.0074
+  },
+  "voice": true
+ },
+ {
+  "id": 14,
+  "name": "Stella",
+  "kind": "character",
+  "top": 2,
+  "right": 4,
+  "bottom": 5,
+  "left": 3,
+  "color": "pink",
+  "colorHex": "#fc41a3",
+  "art": true,
+  "animation": {
+   "pivot": {
+    "x": 0.4104,
+    "y": 0.8824
+   },
+   "artScale": 1.0074
+  },
+  "voice": true
+ },
+ {
+  "id": 15,
+  "name": "Stello",
+  "kind": "character",
+  "top": 7,
+  "right": 6,
+  "bottom": 5,
+  "left": 6,
+  "color": "blue",
+  "colorHex": "#3493da",
+  "art": true,
+  "animation": {
+   "pivot": {
+    "x": 0.3114,
+    "y": 0.913
+   },
+   "artScale": 1.0074
+  },
+  "voice": true
+ },
+ {
+  "id": 16,
+  "name": "Amber",
+  "kind": "character",
+  "top": 3,
+  "right": 4,
+  "bottom": 6,
+  "left": 2,
+  "color": "orange",
+  "colorHex": "#eca441",
+  "art": true,
+  "animation": {
+   "pivot": {
+    "x": 0.4702,
+    "y": 0.913
+   },
+   "artScale": 1.0667
+  },
+  "voice": true
+ },
+ {
+  "id": 17,
+  "name": "Po",
+  "kind": "character",
+  "top": 6,
+  "right": 2,
+  "bottom": 1,
+  "left": 5,
+  "color": "pink",
+  "colorHex": "#fc41a3",
+  "art": true,
+  "animation": {
+   "pivot": {
+    "x": 0.5093,
+    "y": 0.9556
+   },
+   "artScale": 1.2148
+  },
+  "voice": true
+ },
+ {
+  "id": 18,
+  "name": "Mr. Lollihops",
+  "kind": "character",
+  "top": 5,
+  "right": 3,
+  "bottom": 2,
+  "left": 4,
+  "color": "blue",
+  "colorHex": "#3493da",
+  "art": true,
+  "animation": {
+   "pivot": {
+    "x": 0.3999,
+    "y": 0.8861
+   },
+   "artScale": 1.0667
+  },
+  "voice": true
+ },
+ {
+  "id": 19,
+  "name": "Cornelius",
+  "kind": "character",
+  "top": 7,
+  "right": 6,
+  "bottom": 5,
+  "left": 4,
+  "color": "purple",
+  "colorHex": "#b241ec",
+  "art": true,
+  "animation": {
+   "pivot": {
+    "x": 0.3577,
+    "y": 0.8528
+   },
+   "artScale": 1.0074
+  },
+  "voice": true
+ },
+ {
+  "id": 20,
+  "name": "Shelly",
+  "kind": "character",
+  "top": 2,
+  "right": 1,
+  "bottom": 3,
+  "left": 2,
+  "color": "green",
+  "colorHex": "#56c841",
+  "art": true,
+  "animation": {
+   "pivot": {
+    "x": 0.46,
+    "y": 0.8269
+   },
+   "artScale": 1.0074
+  },
+  "voice": true
+ },
+ {
+  "id": 21,
+  "name": "Black Beard",
+  "kind": "character",
+  "top": 4,
+  "right": 7,
+  "bottom": 2,
+  "left": 1,
+  "color": "purple",
+  "colorHex": "#b241ec",
+  "art": true,
+  "animation": {
+   "pivot": {
+    "x": 0.4873,
+    "y": 0.9278
+   },
+   "artScale": 1.037
+  },
+  "voice": true
+ },
+ {
+  "id": 22,
+  "name": "Fluffkins",
+  "kind": "character",
+  "top": 3,
+  "right": 1,
+  "bottom": 3,
+  "left": 2,
+  "color": "green",
+  "colorHex": "#56c841",
+  "art": true,
+  "animation": {
+   "pivot": {
+    "x": 0.54,
+    "y": 0.95
+   },
+   "artScale": 1.0963
+  },
+  "voice": true
+ },
+ {
+  "id": 23,
+  "name": "Arachnassile",
+  "kind": "character",
+  "top": 1,
+  "right": 3,
+  "bottom": 5,
+  "left": 4,
+  "color": "red",
+  "colorHex": "#ce3a3d",
+  "art": true,
+  "animation": {
+   "pivot": {
+    "x": 0.6465,
+    "y": 0.8333
+   },
+   "artScale": 1.3037
+  },
+  "voice": true
+ },
+ {
+  "id": 24,
+  "name": "Freya",
+  "kind": "character",
+  "top": 2,
+  "right": 5,
+  "bottom": 4,
+  "left": 3,
+  "color": "blue",
+  "colorHex": "#3493da",
+  "art": true,
+  "animation": {
+   "pivot": {
+    "x": 0.4507,
+    "y": 0.9426
+   },
+   "artScale": 1.0074
+  },
+  "voice": true
+ },
+ {
+  "id": 25,
+  "name": "Petite",
+  "kind": "character",
+  "top": 4,
+  "right": 5,
+  "bottom": 6,
+  "left": 7,
+  "color": "purple",
+  "colorHex": "#b241ec",
+  "art": true,
+  "animation": {
+   "pivot": {
+    "x": 0.6564,
+    "y": 0.8852
+   },
+   "artScale": 1.6296
+  },
+  "voice": true
+ },
+ {
+  "id": 26,
+  "name": "Phoenix",
+  "kind": "character",
+  "top": 6,
+  "right": 2,
+  "bottom": 7,
+  "left": 5,
+  "color": "gray",
+  "colorHex": "#8a8f9c",
+  "art": true,
+  "animation": {
+   "pivot": {
+    "x": 0.4347,
+    "y": 0.9176
+   },
+   "artScale": 1.037
+  },
+  "voice": true
+ },
+ {
+  "id": 27,
+  "name": "Sprinkles",
+  "kind": "character",
+  "top": 3,
+  "right": 7,
+  "bottom": 2,
+  "left": 5,
+  "color": "blue",
+  "colorHex": "#3493da",
+  "art": true,
+  "animation": {
+   "pivot": {
+    "x": 0.4919,
+    "y": 0.9037
+   },
+   "artScale": 1.0074
+  },
+  "voice": true
+ },
+ {
+  "id": 28,
+  "name": "Boomerang",
+  "kind": "character",
+  "top": 4,
+  "right": 1,
+  "bottom": 5,
+  "left": 2,
+  "color": "green",
+  "colorHex": "#56c841",
+  "art": true,
+  "animation": {
+   "pivot": {
+    "x": 0.505,
+    "y": 0.9731
+   },
+   "artScale": 1.0074
+  },
+  "voice": true
+ },
+ {
+  "id": 29,
+  "name": "Glockodile",
+  "kind": "character",
+  "top": 3,
+  "right": 6,
+  "bottom": 4,
+  "left": 5,
+  "color": "green",
+  "colorHex": "#56c841",
+  "art": true,
+  "animation": {
+   "pivot": {
+    "x": 0.5114,
+    "y": 0.8639
+   },
+   "artScale": 1.0074
+  },
+  "voice": true
+ },
+ {
+  "id": 30,
+  "name": "Tee-Toh",
+  "kind": "character",
+  "top": 2,
+  "right": 3,
+  "bottom": 5,
+  "left": 4,
+  "color": "blue",
+  "colorHex": "#3493da",
+  "art": true,
+  "animation": {
+   "pivot": {
+    "x": 0.4627,
+    "y": 0.8537
+   },
+   "artScale": 1.0074
+  },
+  "voice": true
+ },
+ {
+  "id": 31,
+  "name": "Snowl",
+  "kind": "character",
+  "top": 3,
+  "right": 2,
+  "bottom": 1,
+  "left": 3,
+  "color": "orange",
+  "colorHex": "#eca441",
+  "art": true,
+  "animation": {
+   "pivot": {
+    "x": 0.5995,
+    "y": 0.9287
+   },
+   "artScale": 1.0667
+  },
+  "voice": true
+ },
+ {
+  "id": 32,
+  "name": "Ronald",
+  "kind": "character",
+  "top": 4,
+  "right": 6,
+  "bottom": 5,
+  "left": 7,
+  "color": "green",
+  "colorHex": "#56c841",
+  "art": true,
+  "animation": {
+   "pivot": {
+    "x": 0.5799,
+    "y": 0.9241
+   },
+   "artScale": 1.0074
+  },
+  "voice": true
+ },
+ {
+  "id": 33,
+  "name": "Pun-Pun",
+  "kind": "character",
+  "top": 2,
+  "right": 2,
+  "bottom": 7,
+  "left": 1,
+  "color": "blue",
+  "colorHex": "#3493da",
+  "art": true,
+  "animation": {
+   "pivot": {
+    "x": 0.4101,
+    "y": 0.9472
+   },
+   "artScale": 1.0074
+  },
+  "voice": true
+ },
+ {
+  "id": 34,
+  "name": "Bandit",
+  "kind": "character",
+  "top": 5,
+  "right": 4,
+  "bottom": 2,
+  "left": 6,
+  "color": "purple",
+  "colorHex": "#b241ec",
+  "art": true,
+  "animation": {
+   "pivot": {
+    "x": 0.4565,
+    "y": 0.9426
+   },
+   "artScale": 1.0074
+  },
+  "voice": true
+ },
+ {
+  "id": 35,
+  "name": "Mittens",
+  "kind": "character",
+  "top": 3,
+  "right": 3,
+  "bottom": 6,
+  "left": 2,
+  "color": "red",
+  "colorHex": "#ce3a3d",
+  "art": true,
+  "animation": {
+   "pivot": {
+    "x": 0.5034,
+    "y": 0.8991
+   },
+   "artScale": 1.037
+  },
+  "voice": true
+ },
+ {
+  "id": 36,
+  "name": "Mittens Jr.",
+  "kind": "character",
+  "top": 7,
+  "right": 5,
+  "bottom": 6,
+  "left": 4,
+  "color": "purple",
+  "colorHex": "#b241ec",
+  "art": true,
+  "animation": {
+   "pivot": {
+    "x": 0.581,
+    "y": 0.8778
+   },
+   "artScale": 1.1852
+  },
+  "voice": true
+ },
+ {
+  "id": 37,
+  "name": "Alex",
+  "kind": "character",
+  "top": 6,
+  "right": 4,
+  "bottom": 7,
+  "left": 5,
+  "color": "orange",
+  "colorHex": "#eca441",
+  "art": true,
+  "animation": {
+   "pivot": {
+    "x": 0.4647,
+    "y": 0.9417
+   },
+   "artScale": 1.037
+  },
+  "voice": true
+ },
+ {
+  "id": 38,
+  "name": "Alexus",
+  "kind": "character",
+  "top": 3,
+  "right": 1,
+  "bottom": 1,
+  "left": 2,
+  "color": "pink",
+  "colorHex": "#fc41a3",
+  "art": true,
+  "animation": {
+   "pivot": {
+    "x": 0.4442,
+    "y": 0.8676
+   },
+   "artScale": 1.0074
+  },
+  "voice": true
+ },
+ {
+  "id": 39,
+  "name": "Spikes",
+  "kind": "character",
+  "top": 5,
+  "right": 2,
+  "bottom": 4,
+  "left": 1,
+  "color": "green",
+  "colorHex": "#56c841",
+  "art": true,
+  "animation": {
+   "pivot": {
+    "x": 0.546,
+    "y": 0.9231
+   },
+   "artScale": 1.0667
+  },
+  "voice": true
+ },
+ {
+  "id": 40,
+  "name": "Amie",
+  "kind": "character",
+  "top": 1,
+  "right": 4,
+  "bottom": 2,
+  "left": 3,
+  "color": "gray",
+  "colorHex": "#8a8f9c",
+  "art": true,
+  "animation": {
+   "pivot": {
+    "x": 0.5392,
+    "y": 0.8667
+   },
+   "artScale": 1.0074
+  },
+  "voice": true
+ },
+ {
+  "id": 41,
+  "name": "Teddy",
+  "kind": "character",
+  "top": 6,
+  "right": 7,
+  "bottom": 5,
+  "left": 5,
+  "color": "blue",
+  "colorHex": "#3493da",
+  "art": true,
+  "animation": {
+   "pivot": {
+    "x": 0.5954,
+    "y": 0.9213
+   },
+   "artScale": 1.0963
+  },
+  "voice": true
+ },
+ {
+  "id": 42,
+  "name": "Cupid",
+  "kind": "character",
+  "top": 2,
+  "right": 3,
+  "bottom": 6,
+  "left": 4,
+  "color": "pink",
+  "colorHex": "#fc41a3",
+  "art": true,
+  "animation": {
+   "pivot": {
+    "x": 0.4238,
+    "y": 0.8667
+   },
+   "artScale": 1.0074
+  },
+  "voice": true
+ },
+ {
+  "id": 43,
+  "name": "Joe",
+  "kind": "character",
+  "top": 3,
+  "right": 4,
+  "bottom": 6,
+  "left": 5,
+  "color": "orange",
+  "colorHex": "#eca441",
+  "art": true,
+  "animation": {
+   "pivot": {
+    "x": 0.4168,
+    "y": 0.9426
+   },
+   "artScale": 1.0074
+  },
+  "voice": true
+ },
+ {
+  "id": 44,
+  "name": "Lizzie Jr.",
+  "kind": "character",
+  "top": 6,
+  "right": 4,
+  "bottom": 5,
+  "left": 5,
+  "color": "gray",
+  "colorHex": "#8a8f9c",
+  "art": true,
+  "animation": {
+   "pivot": {
+    "x": 0.464,
+    "y": 0.9056
+   },
+   "artScale": 1.0074
+  },
+  "voice": true
+ },
+ {
+  "id": 45,
+  "name": "Fryum",
+  "kind": "character",
+  "top": 5,
+  "right": 4,
+  "bottom": 3,
+  "left": 3,
+  "color": "gray",
+  "colorHex": "#8a8f9c",
+  "art": true,
+  "animation": {
+   "pivot": {
+    "x": 0.5187,
+    "y": 0.9361
+   },
+   "artScale": 1.0074
+  },
+  "voice": true
+ },
+ {
+  "id": 46,
+  "name": "Poe",
+  "kind": "character",
+  "top": 6,
+  "right": 3,
+  "bottom": 4,
+  "left": 5,
+  "color": "purple",
+  "colorHex": "#b241ec",
+  "art": true,
+  "animation": null,
+  "voice": true
+ },
+ {
+  "id": 101,
+  "name": "Boulder!",
+  "kind": "effect",
+  "effect": "BOULDER",
+  "does": "Remove a non-frozen card plus every non-frozen card in its row and column.",
+  "art": false,
+  "animation": null,
+  "voice": false
+ },
+ {
+  "id": 102,
+  "name": "Flip!",
+  "kind": "effect",
+  "effect": "FLIP",
+  "does": "Rotate the entire board 180° — every card changes sides.",
+  "art": false,
+  "animation": null,
+  "voice": false
+ },
+ {
+  "id": 103,
+  "name": "Freeze!",
+  "kind": "effect",
+  "effect": "FREEZE",
+  "does": "Lock one of your cards for the rest of the game. It cannot capture or be captured.",
+  "art": false,
+  "animation": null,
+  "voice": false
+ },
+ {
+  "id": 104,
+  "name": "Recruit!",
+  "kind": "effect",
+  "effect": "RECRUIT",
+  "does": "Steal a non-frozen enemy card and place it on any empty tile as your own.",
+  "art": false,
+  "animation": null,
+  "voice": false
+ },
+ {
+  "id": 105,
+  "name": "Swap!",
+  "kind": "effect",
+  "effect": "SWAP",
+  "does": "Exchange hands with your opponent.",
+  "art": false,
+  "animation": null,
+  "voice": false
+ }
+]

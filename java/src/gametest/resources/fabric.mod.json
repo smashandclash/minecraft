@@ -1,0 +1,9 @@
+{
+	"schemaVersion": 1,
+	"id": "smashandclash-test",
+	"version": "1.0.0",
+	"name": "Smash&Clash client test",
+	"environment": "client",
+	"entrypoints": { "fabric-client-gametest": ["in.smashandclash.minecraft.test.TableClientTest", "in.smashandclash.minecraft.test.FilmClientTest"] },
+	"depends": { "smashandclash": "*" }
+}

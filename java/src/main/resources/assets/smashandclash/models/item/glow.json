@@ -1,0 +1,43 @@
+{
+ "textures": {
+  "sprite": "smashandclash:block/glow",
+  "particle": "smashandclash:block/glow"
+ },
+ "elements": [
+  {
+   "from": [
+    0,
+    0,
+    8
+   ],
+   "to": [
+    16,
+    16,
+    8
+   ],
+   "shade": false,
+   "faces": {
+    "south": {
+     "uv": [
+      0,
+      0,
+      16,
+      16
+     ],
+     "texture": "#sprite",
+     "tintindex": 0
+    },
+    "north": {
+     "uv": [
+      16,
+      0,
+      0,
+      16
+     ],
+     "texture": "#sprite",
+     "tintindex": 0
+    }
+   }
+  }
+ ]
+}
